@@ -6,7 +6,7 @@ Pretty straightforward piece of code.
 Using win10toast this will create a litle popup in the Windows 10 notification 
 area at the desired time, with the desired message.
 
-The program prompts you for a time and a message, during this it is constantly 
+The program prompts you for a time and a message and is constantly 
 checking the current time in the background. Once the current time matches the 
 input time, a notificaion pops up and displays the text entered. 
 
